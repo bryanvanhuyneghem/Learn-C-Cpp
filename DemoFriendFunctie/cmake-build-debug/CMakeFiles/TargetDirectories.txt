@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/DemoFriendFunctie/cmake-build-debug/CMakeFiles/DemoFriendFunctie.dir
+C:/Users/bryan/CLionProjects/DemoFriendFunctie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/DemoFriendFunctie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

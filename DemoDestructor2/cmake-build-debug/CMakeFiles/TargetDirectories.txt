@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/DemoDestructor2/cmake-build-debug/CMakeFiles/DemoDestructor2.dir
+C:/Users/bryan/CLionProjects/DemoDestructor2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/DemoDestructor2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

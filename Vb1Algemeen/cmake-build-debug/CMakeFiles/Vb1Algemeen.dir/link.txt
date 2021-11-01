@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.1.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Vb1Algemeen.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Vb1Algemeen.dir/objects.a @CMakeFiles\Vb1Algemeen.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\Vb1Algemeen.dir/objects.a -Wl,--no-whole-archive  -o Vb1Algemeen.exe -Wl,--out-implib,libVb1Algemeen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Vb1Algemeen.dir\linklibs.rsp

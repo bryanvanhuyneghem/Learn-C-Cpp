@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan/CLionProjects/namespace_vb/main.cpp
+iostream
+-
+nmspc.cpp
+C:/Users/bryan/CLionProjects/namespace_vb/nmspc.cpp
+

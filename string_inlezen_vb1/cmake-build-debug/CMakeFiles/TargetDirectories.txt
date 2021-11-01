@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/string_inlezen_vb1/cmake-build-debug/CMakeFiles/string_inlezen_vb1.dir
+C:/Users/bryan/CLionProjects/string_inlezen_vb1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/string_inlezen_vb1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

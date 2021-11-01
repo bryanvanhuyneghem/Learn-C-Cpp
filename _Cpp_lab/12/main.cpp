@@ -1,0 +1,63 @@
+#include <iostream>
+#include <vector>
+#include <set>
+#include <stack>
+#include <map>
+
+struct persoon {
+    std::string naam;
+    int leeftijd;
+    double lengte;
+};
+
+void initialiseer(persoon& p, std::string naam, int leeftijd, double lengte){
+    p.naam = naam;
+    p.leeftijd = leeftijd;
+    p.lengte = lengte;
+}
+
+std::ostream& operator << (std::ostream& out, const persoon & p){
+    out << p.naam << " (" << p.leeftijd << " jaar, "
+        << (int)p.lengte  << "m" << (int)((p.lengte-1)*100)  << ")";
+    return out;
+}
+
+template<typename T>
+std::ostream& operator << (std::ostream& out, const std::set<T>& s){
+    out << "{ ";
+    auto it = s.begin();
+    for(int i = 0; i < s.size()-1; i++){
+        out << *it << " , ";
+        it++;
+    }
+    out << *it << " }" << std::endl;
+    return out;
+}
+
+template<typename T>
+std::ostream& operator << (std::ostream& out, const std::stack<T> stack){
+    while(!stack.empty()){
+        out << " " << stack.top() << std::end;
+        stack.pop();
+    }
+    return out;
+}
+
+template<typename S, typename D>
+std::ostream& operator << (std::ostream& out, const std::map<S,D>& map){
+    auto it = map.begin();
+    while(it != map.end()){
+        out << " " << it->first << " --> " << it->second << std::endl;
+        it++;
+    }
+    return out;
+}
+
+
+int main() {
+    persoon p;
+    initialiseer(p, "Jan", 12, 1.83);
+
+
+    return 0;
+}

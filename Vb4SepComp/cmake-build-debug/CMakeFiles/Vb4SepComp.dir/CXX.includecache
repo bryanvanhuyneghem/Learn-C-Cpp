@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan/CLionProjects/Vb4SepComp/Student.cpp
+Student.h
+C:/Users/bryan/CLionProjects/Vb4SepComp/Student.h
+string
+-
+iostream
+-
+
+C:/Users/bryan/CLionProjects/Vb4SepComp/Student.h
+string
+-
+
+C:/Users/bryan/CLionProjects/Vb4SepComp/main.cpp
+Student.cpp
+C:/Users/bryan/CLionProjects/Vb4SepComp/Student.cpp
+

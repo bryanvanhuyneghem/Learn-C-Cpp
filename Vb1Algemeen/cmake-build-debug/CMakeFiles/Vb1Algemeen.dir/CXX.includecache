@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan/CLionProjects/Vb1Algemeen/Student.cpp
+iostream
+-
+string
+-
+
+C:/Users/bryan/CLionProjects/Vb1Algemeen/main.cpp
+iostream
+-
+Student.cpp
+C:/Users/bryan/CLionProjects/Vb1Algemeen/Student.cpp
+

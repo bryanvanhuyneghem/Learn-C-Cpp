@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/shared_ptr_vb/cmake-build-debug/CMakeFiles/shared_ptr_vb.dir
+C:/Users/bryan/CLionProjects/shared_ptr_vb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/shared_ptr_vb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

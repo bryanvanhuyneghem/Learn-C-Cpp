@@ -1,0 +1,3 @@
+S:/Documents/CLion Projects/C&C++ subject/_Cpp_lab/05/cmake-build-debug/CMakeFiles/05.dir
+S:/Documents/CLion Projects/C&C++ subject/_Cpp_lab/05/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/Documents/CLion Projects/C&C++ subject/_Cpp_lab/05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

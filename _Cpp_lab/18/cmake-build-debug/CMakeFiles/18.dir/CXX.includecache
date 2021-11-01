@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+S:/Documents/CLion Projects/C&C++ subject/_Cpp_lab/18/containers.h
+iostream
+-
+vector
+-
+set
+-
+stack
+-
+map
+-
+unordered_set
+-
+
+S:/Documents/CLion Projects/C&C++ subject/_Cpp_lab/18/main.cpp
+iostream
+-
+containers.h
+S:/Documents/CLion Projects/C&C++ subject/_Cpp_lab/18/containers.h
+

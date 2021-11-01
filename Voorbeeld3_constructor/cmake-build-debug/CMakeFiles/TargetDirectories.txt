@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/Voorbeeld3_constructor/cmake-build-debug/CMakeFiles/Voorbeeld3_constructor.dir
+C:/Users/bryan/CLionProjects/Voorbeeld3_constructor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/Voorbeeld3_constructor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

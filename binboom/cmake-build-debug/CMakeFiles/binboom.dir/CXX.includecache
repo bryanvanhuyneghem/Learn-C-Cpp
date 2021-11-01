@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan/CLionProjects/binboom/binboom.h
+cstdlib
+-
+iostream
+-
+cassert
+-
+stack
+-
+functional
+-
+memory
+-
+queue
+-
+sstream
+-
+vector
+-
+
+C:/Users/bryan/CLionProjects/binboom/main.cpp
+iostream
+-
+fstream
+-
+binboom.h
+C:/Users/bryan/CLionProjects/binboom/binboom.h
+
